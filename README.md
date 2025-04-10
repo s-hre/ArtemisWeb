@@ -1,3 +1,4 @@
 # ArtemisWeb
-ArtemisWeb is currently unreleased, please check back at a later date.
-we are sorry for the inconvienience.
+ArtemisWeb has been discontinued until further notice.
+
+We apologize for any inconvenience this may have caused.
